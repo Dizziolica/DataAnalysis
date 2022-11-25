@@ -67,9 +67,9 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-Leetcode exercises to practice programming logic,
-I try with these exercises to make the simplest way and easy understanding
+# DataAnalysis
+Simple Example Of Data Analysis
+An Example Of How To Analyze Sales Data in Python Notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
